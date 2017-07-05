@@ -1,0 +1,2 @@
+-r
+ipython[notebook]
